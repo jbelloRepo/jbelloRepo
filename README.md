@@ -20,9 +20,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jbelloRepo&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Dev Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=jbelloRepo&icon=6&color=0)](https://visitcount.itsvg.in)
 
