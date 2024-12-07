@@ -10,7 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=jbelloRepo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Tech Stack:
--------------------------------
 ### Programming Languages
 - Compiled:
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
